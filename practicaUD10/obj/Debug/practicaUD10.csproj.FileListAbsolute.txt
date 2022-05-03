@@ -1,0 +1,10 @@
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\bin\Debug\practicaUD10.exe.config
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\bin\Debug\practicaUD10.exe
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\bin\Debug\practicaUD10.pdb
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.AssemblyReference.cache
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.Form1.resources
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.Properties.Resources.resources
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.GenerateResource.cache
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.CoreCompileInputs.cache
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.exe
+C:\Users\llinares21794\Desktop\practicaUD10\practicaUD10\obj\Debug\practicaUD10.pdb

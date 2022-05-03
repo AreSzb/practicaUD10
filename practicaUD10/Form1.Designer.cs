@@ -114,6 +114,7 @@ namespace practicaUD10
             this.bGuardar.TabIndex = 9;
             this.bGuardar.Text = "Guardar";
             this.bGuardar.UseVisualStyleBackColor = true;
+            this.bGuardar.Click += new System.EventHandler(this.bGuardar_Click);
             // 
             // Form1
             // 
