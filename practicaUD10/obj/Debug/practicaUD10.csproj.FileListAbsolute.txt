@@ -1,0 +1,10 @@
+D:\GitHub\practicaUD10\practicaUD10\bin\Debug\practicaUD10.exe.config
+D:\GitHub\practicaUD10\practicaUD10\bin\Debug\practicaUD10.exe
+D:\GitHub\practicaUD10\practicaUD10\bin\Debug\practicaUD10.pdb
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.AssemblyReference.cache
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.Form1.resources
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.Properties.Resources.resources
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.GenerateResource.cache
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.csproj.CoreCompileInputs.cache
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.exe
+D:\GitHub\practicaUD10\practicaUD10\obj\Debug\practicaUD10.pdb
