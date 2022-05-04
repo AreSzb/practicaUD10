@@ -63,9 +63,10 @@ namespace practicaUD10
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(546, 21);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(49, 13);
+            this.label4.Size = new System.Drawing.Size(32, 13);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Telefono";
+            this.label4.Text = "Movil";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
